@@ -2,7 +2,7 @@
     {
         "Name": "chromium_third_party_flac",                   # 上游开源软件名全称
         "License":"LGPL-2.1+","GPL-2.0-or-later","GFDL-1.2|GPLStyleLicense","GPLStyleLicense"          # 上游开源软件中包含的许可证信息
-        "License File": "LGPL-2.1+","GPL-2.0-or-later","GFDL-1.2|GPLStyleLicense","GPLStyleLicense"      # 许可证所在文件路径
+        "License File": "License.txt"     # 许可证所在文件路径
         "Version Number": "af862024c8c8fa0ae07ced05e89013d881b00596",
         "Upstream URL": "https://chromium.googlesource.com/chromium/deps/flac.git@af862024c8c8fa0ae07ced05e89013d881b00596",   # 上游软件包发布地址
         "Description": "第三方软件flac"           # 开源软件功能描述
