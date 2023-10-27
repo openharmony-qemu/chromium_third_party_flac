@@ -6,6 +6,6 @@
         "Version Number": "af862024c8c8fa0ae07ced05e89013d881b00596",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/chromium/deps/flac.git@af862024c8c8fa0ae07ced05e89013d881b00596",
-        "Description": "第三方软件flac,无损音频压缩编码"
+        "Description": "第三方软件flac,无损音频压缩编码."
     }
 ]
