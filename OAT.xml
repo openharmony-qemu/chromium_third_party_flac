@@ -78,6 +78,9 @@ used to filter file path.
             </filefilter>
             <filefilter name="binaryFileTypePolicyFilter" desc="Check to see if it is a binary file">
             </filefilter>
+            <filefilter name="defaultFilter" desc="File is not used">
+                <filteritem type="filepath" name="LICENSE" desc="经确认，该文件不会使用" />
+            </filefilter>
         </filefilterlist>
         <licensematcherlist>   
             <licensematcher name="LGPL-2.1-only" desc="">
