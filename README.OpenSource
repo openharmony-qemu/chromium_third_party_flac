@@ -1,8 +1,8 @@
 [
     {
         "Name": "flac",
-        "License":"Apache-2.0",
-        "License File":"LICENSE",
+        "License":"	BSD-3-Clause",
+        "License File":"COPYING.Xiph",
         "Version Number": "af862024c8c8fa0ae07ced05e89013d881b00596",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/chromium/deps/flac.git@af862024c8c8fa0ae07ced05e89013d881b00596",
