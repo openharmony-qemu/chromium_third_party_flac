@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "flac",
+        "License":"Apache-2.0",
+        "License File":"LICENSE",
+        "Version Number": "689da3a7ed50af7448c3f1961d1791c7c1d9c85c",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/chromium/deps/flac.git@689da3a7ed50af7448c3f1961d1791c7c1d9c85c",
+        "Description": "第三方软件flac,无损音频压缩编码."
+    }
+]
