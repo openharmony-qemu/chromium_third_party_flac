@@ -5,6 +5,7 @@ Revision: b32e5cbf9818ca23dd22aaa75522042c16ea7d17
 License: BSD-3-Clause
 License File: COPYING.Xiph
 Security Critical: yes
+Update Mechanism: Manual
 Shipped: yes
 
 Description:
